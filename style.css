@@ -55,10 +55,10 @@
         text-shadow: 0 1px 0 rgba(255,255,255,.7);
         letter-spacing: -.065em;
         font-family: "Hammersmith One", sans-serif;     
-        -webkit-transition: all .25s ease-in-out;
-        -o-transition: all .25s ease-in-out;
-        -moz-transition: all .25s ease-in-out;
-        transition: all .25s ease-in-out;
+        -webkit-transition: all .15s ease-in-out;
+        -o-transition: all .15s ease-in-out;
+        -moz-transition: all .15s ease-in-out;
+        transition: all .15s ease-in-out;
         box-shadow: 2px 2px 7px rgba(0,0,0,.2);
         border-radius: 300px;
         z-index: 1;
@@ -118,10 +118,10 @@
     .round span.round {
         display: block;
         opacity: 0;
-        -webkit-transition: all .5s ease-in-out;
-        -moz-transition: all .5s ease-in-out;
-        -o-transition: all .5s ease-in-out;
-        transition: all .5s ease-in-out;
+        -webkit-transition: all .3s ease-in-out;
+        -moz-transition: all .3s ease-in-out;
+        -o-transition: all .3s ease-in-out;
+        transition: all .3s ease-in-out;
         font-size: 1px;
         border: none;
         padding: 40% 20% 0 20%;
