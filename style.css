@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: "helvetica neue", helvetica, arial, sans-serif;
     -moz-box-sizing: border-box;
         -o-box-sizing: border-box;
         -webkit-box-sizing: border-box;
@@ -157,10 +158,16 @@ body
     background: #333 url('http://subtlepatterns.subtlepatterns.netdna-cdn.com/patterns/giftly.png');
 }
 
+
 h1 {
     font-family: "helvetica neue", helvetica, arial, sans-serif;
 }
-
+h2 {
+    font-family: "helvetica neue", helvetica, arial, sans-serif;
+}
+h3 {
+    font-family: "helvetica neue", helvetica, arial, sans-serif;
+}
 
 text {
 }
@@ -180,14 +187,14 @@ rect {
 .svg-logo
 {
 	fill: "rgba(0,63,71,.7)";
-	font-family: monospace;
+/*	font-family: monospace;*/
 	font-weight: 700;
 }
 
 .svg-slogan
 {
 	fill: black;
-	font-family: monospace;
+/*	font-family: monospace;*/
 	font-weight: 700;
 }
 
@@ -204,7 +211,7 @@ background: rgba(0, 0, 0, 0.99);
 
 .svg-menu-text
 {
-	font-family: monospace;
+/*	font-family: monospace;*/
 }
 
 .big-div
