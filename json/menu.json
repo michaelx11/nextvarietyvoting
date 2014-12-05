@@ -1,0 +1,5 @@
+[ 
+	{"title": "Margaret Fuller House", "target": "main", "cType": "html", "source": "page1.html", "image" : "images/foodpantry1.jpg"}, 
+	{"title": "Breakthrough Boston", "target": "main", "cType": "html", "source": "page2.html", "image" : "images/breakthrough_event.jpg"}, 
+	{"title": "Community Arts Center", "target": "main", "cType": "html", "source": "page3.html", "image" : "images/SACCAmanda_cropped.jpg"}
+]
