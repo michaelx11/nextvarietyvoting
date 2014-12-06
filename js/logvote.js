@@ -29,5 +29,4 @@ function logVote(key) {
             location.reload();
         });
     }
-    location.reload();
 }
