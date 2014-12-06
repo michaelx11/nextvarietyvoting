@@ -1,7 +1,6 @@
 var myFirebaseRef = new Firebase("https://michaelx-metadata.firebaseio.com/nextvariety/");
 
 function logVote(key) {
-    /*
     if (key === 'margaretfuller') {
         myFirebaseRef.child('margaretfuller').transaction(function(count) {
             return count + 1;
@@ -30,6 +29,5 @@ function logVote(key) {
             location.reload();
         });
     }
-    */
     location.reload();
 }
